@@ -24,27 +24,13 @@ Seja bem‑vindo ao meu perfil! 🚀
 ## 📱 Contatos e Redes Sociais
 
 <div style="display:flex; gap:12px; align-items:center;">
-<a href="https://www.instagram.com/mariana.moraes25/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" width="30"/></a>
+<a href="https://www.instagram.com/mariana.moraes25/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" alt="Instagram" width="30"/></a>
 <a href="https://www.linkedin.com/in/mariana-moraes25/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30"/></a>
-<a href="mailto:mariana.moraes25@outlook.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoft/microsoft-original.svg" alt="Outlook" width="30"/></a>
+<a href="mailto:mariana.moraes25@outlook.com"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoft-outlook.svg" alt="Outlook" width="30"/></a>
 </div>
-
----
-
-## 📂 Repositórios principais
-
-- **[angular-estudos](https://github.com/mariana-moraes25/angular-estudos)** – Experimentos e tutoriais com Angular.
-- **[typescript-basico](https://github.com/mariana-moraes25/typescript-basico)** – Exemplos e boas práticas em TypeScript.
-- **[javascript-basico](https://github.com/mariana-moraes25/javascript-basico)** – Fundamentos de JavaScript.
 
 ---
 
 ## 🎉 Contribua
 
 Fique à vontade para abrir **issues** ou **pull requests**. Sugestões, melhorias de UI/UX ou novas funcionalidades são bem‑vindas!
-
----
-
-## 📄 Licença
-
-Este repositório está licenciado sob a **MIT License** – veja o arquivo `LICENSE` para mais detalhes.
