@@ -1,4 +1,10 @@
-# 🎉 Bem‑vindo ao meu perfil GitHub!
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mariana-moraes25.mariana-moraes25">
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá,+visitante!+👋;Eu+sou+a+Mariana+Moraes.;🎉+Seja+bem‑vindo+ao+meu;perfil+GitHub!&center=true&size=30">
+  </a>
+</h1>
 
 [![Stars](https://img.shields.io/github/stars/mariana-moraes25/mariana-moraes25?style=flat)](https://github.com/mariana-moraes25/mariana-moraes25/stargazers)
 [![Issues](https://img.shields.io/github/issues/mariana-moraes25/mariana-moraes25?style=flat)](https://github.com/mariana-moraes25/mariana-moraes25/issues)
@@ -6,11 +12,11 @@
 
 ---
 
-## 👋 About
+## 👋 Sobre mim
 
-Olá! Eu sou **Mariana Moraes**, desenvolvedora apaixonada por criar aplicações web interativas e modernas. Abaixo estão os ícones das tecnologias que utilizo, cada um linkado ao site oficial.
+Sou uma desenvolvedora web e de aplicativos apaixonada por criar aplicações interativas e modernas. Abaixo estão os ícones das linguagens e ferramentas que mais utilizo, cada um linkado ao site oficial.
 
-<div style="display:flex; flex-wrap:wrap; gap:12px; align-items:center;">
+<div style="display:flex; flex-wrap:wrap; gap:14px; align-items:center;">
 <a href="https://angular.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="30"/></a>
 <a href="https://reactjs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="30"/></a>
 <a href="https://www.typescriptlang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="30"/></a>
@@ -26,7 +32,7 @@ Olá! Eu sou **Mariana Moraes**, desenvolvedora apaixonada por criar aplicaçõe
 ## 📱 Contatos e Redes Sociais
 
 <div style="display:flex; gap:12px; align-items:center;">
-<a href="https://www.instagram.com/mariana.moraes25/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" alt="Instagram" width="30"/></a>
-<a href="https://www.linkedin.com/in/mariana-moraes25/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" width="30"/></a>
-<a href="mailto:mariana.moraes25@outlook.com"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoft-outlook.svg" alt="Outlook" width="30"/></a>
+<a href="https://www.instagram.com/mariana.moraes25/"><img src="https://img.icons8.com/?size=100&id=BrU2BBoRXiWq&format=png&color=000000" alt="Instagram" width="35"/></a>
+<a href="https://www.linkedin.com/in/mariana-moraes25/"><img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="35"/></a>
+<a href="mailto:mariana.moraes25@outlook.com"><img src="https://img.icons8.com/fluency/48/microsoft-outlook-2025.png" alt="Outlook" width="35"/></a>
 </div>
