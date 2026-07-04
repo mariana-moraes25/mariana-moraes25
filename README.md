@@ -26,7 +26,7 @@ Olá! Eu sou **Mariana Moraes**, desenvolvedora apaixonada por criar aplicaçõe
 ## 📱 Contatos e Redes Sociais
 
 <div style="display:flex; gap:12px; align-items:center;">
-<a href="https://www.instagram.com/mariana.moraes25/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" width="30"/></a>
-<a href="https://www.linkedin.com/in/mariana-moraes25/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30"/></a>
+<a href="https://www.instagram.com/mariana.moraes25/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" alt="Instagram" width="30"/></a>
+<a href="https://www.linkedin.com/in/mariana-moraes25/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" width="30"/></a>
 <a href="mailto:mariana.moraes25@outlook.com"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoft-outlook.svg" alt="Outlook" width="30"/></a>
 </div>
