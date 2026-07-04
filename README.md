@@ -1,73 +1,73 @@
-# Gerador de Currículos 🚀
+# 👋 Olá, visitante!
 
-[![License](https://img.shields.io/github/license/mariana-moraes25/mariana-moraes25)](https://github.com/mariana-moraes25/mariana-moraes25/blob/main/LICENSE)
-[![Stars](https://img.shields.io/github/stars/mariana-moraes25/mariana-moraes25)](https://github.com/mariana-moraes25/mariana-moraes25/stargazers)
-[![Issues](https://img.shields.io/github/issues/mariana-moraes25/mariana-moraes25)](https://github.com/mariana-moraes25/mariana-moraes25/issues)
+Seja bem‑vindo ao meu perfil! 🚀
+
+**Explore meus projetos** nas diferentes áreas de desenvolvimento navegando pelos repositórios abaixo. Cada um demonstra habilidades em tecnologias modernas.
 
 ---
 
-## ✨ Visão geral
+## ✨ Stack Tecnológica
 
-Landing page **interativa** para a criação de currículos editáveis. O usuário pode preencher informações pessoais, experiência profissional, habilidades e gerar um currículo pronto para download.
+<div style="display:flex; flex-wrap:wrap; gap:12px; align-items:center;">
 
-## 🛠️ Tecnologias
+[![Angular](https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg)](https://angular.io) 
+[![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)](https://reactjs.org) 
+[![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg)](https://www.typescriptlang.org) 
+[![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+[![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg)](https://nodejs.org) 
+[![SQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg)](https://www.mysql.com) 
+[![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) 
+[![C/C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)](https://isocpp.org)
 
-- **Angular** & **React** – SPA modernos e responsivos
-- **TypeScript** & **JavaScript** – Código tipado e robusto
-- **Node.js** – Backend leve para API
-- **SQL** – Persistência de dados estruturados
-- **HTML5 & CSS3** – Layouts semânticos e visual premium
-- **C/C++** – Algoritmos de otimização de layout (opcional)
+</div>
 
-## 🚀 Como executar localmente
+---
+
+## 📱 Contatos e Redes Sociais
+
+<div style="display:flex; gap:12px; align-items:center;">
+
+[![Instagram](https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg)](https://www.instagram.com/mariana.moraes25/) 
+[![LinkedIn](https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/mariana-moraes25/) 
+[![Outlook](https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoft/microsoft-original.svg)](mailto:mariana.moraes25@outlook.com)
+
+</div>
+
+---
+
+## 📂 Repositórios principais
+
+- **[gerador-curriculo](https://github.com/mariana-moraes25/gerador-curriculo)** – Landing page para geração de currículos editáveis.
+- **[angular-estudos](https://github.com/mariana-moraes25/angular-estudos)** – Experimentos e tutoriais com Angular.
+- **[typescript-basico](https://github.com/mariana-moraes25/typescript-basico)** – Exemplos e boas práticas em TypeScript.
+- **[javascript-basico](https://github.com/mariana-moraes25/javascript-basico)** – Fundamentos de JavaScript.
+
+---
+
+## 🛠️ Como executar o projeto “gerador‑curriculo”
 
 ```bash
 # Clone o repositório
-git clone https://github.com/mariana-moraes25/mariana-moraes25.git
-cd mariana-moraes25
+git clone https://github.com/mariana-moraes25/gerador-curriculo.git
+cd gerador-curriculo
 
-# Instale as dependências
+# Instale dependências
 npm install
 
-# Rode a aplicação
+# Inicie a aplicação
 npm run start
 ```
 
-A aplicação será servida em `http://localhost:4200`.
-
-## 📂 Estrutura do projeto
-
-```
-src/
-├─ app/                # Módulos Angular/React
-├─ assets/             # Imagens e ícones
-├─ environments/       # Configurações de ambiente
-└─ styles/             # CSS premium (glassmorphism, gradients)
-```
-
-## 🎨 Design premium
-
-- **Glassmorphism** com blur e transparência
-- **Gradientes vibrantes** em HSL para contraste moderno
-- **Tipografia** usando Google Font *Inter* – legível e elegante
-- **Micro‑animações** ao alterar campos e gerar PDF
-
-## 📱 Links sociais
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mariana.moraes25/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-moraes25/)
-[![E-mail](https://img.shields.io/badge/Outlook-D83B01?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:mariana.moraes25@outlook.com)
+> **Dica:** O projeto foi desenvolvido com Angular + Node.js e utiliza SQL para persistência de dados.
 
 ---
 
-## 🤝 Contribuindo
+## 🎉 Contribua
 
-Contribuições são bem‑vindas! Siga os passos abaixo:
-1. Fork o repositório
-2. Crie uma branch (`git checkout -b feature/XYZ`)
-3. Commit suas alterações (`git commit -m 'Add feature XYZ'`)
-4. Abra um Pull Request
+Fique à vontade para abrir **issues** ou **pull requests**. Sugestões, melhorias de UI/UX ou novas funcionalidades são bem‑vindas!
 
-## 📜 Licença
+---
 
-Este projeto está licenciado sob a Licença MIT – veja o arquivo [LICENSE](LICENSE) para detalhes.
+## 📄 Licença
+
+Este repositório está licenciado sob a **MIT License** – veja o arquivo `LICENSE` para mais detalhes.
